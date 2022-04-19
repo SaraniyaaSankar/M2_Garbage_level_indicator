@@ -59,5 +59,30 @@ This project is implemented in Embedded C language. The working principle of a s
 ![flowchart](https://user-images.githubusercontent.com/101622270/163986406-7b0d95a0-f6ad-4b42-9722-1522096d0b30.PNG)
 ## CIRCUIT DIAGRAM
 ![circuit diagram](https://user-images.githubusercontent.com/101622270/163986552-6c02b194-ef0a-4d76-9a9c-58b74684a3b7.png)
+## Implementation
+## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for Garbage level indicator
+`simulation`  | simulation files for Garbage level indicator
+## Test Plan
+## Table no 1: High level test plan
+Test ID | Description | Garbage level in cm | Expected O/P
+--------|-------------|---------|---------
+H_01  | Calculate Garbage level | 5 | LED 1 ON 
+H_02  | Calculate Garbage level | 34 | LED 2 ON 
+H_03  | Calculate Garbage level | 58 | LED 3 ON 
+H_04  | Calculate Garbage level | 75 | LED 4 ON 
+H_05  | Calculate Garbage level | 92 | LED 5 ON 
+## Table no 2: Low level test plan
+Test ID | Description | Garbage level in cm | Expected O/P
+--------|-------------|---------|---------
+L_01  | Calculate Garbage level | greater than 0 and less than 20 cm | LED 1 ON 
+L_02  | Calculate Garbage level | greater than 20 and less than 40 cm | LED 2 ON 
+L_03  | Calculate Garbage level | greater than 40 and less than 60 cm | LED 3 ON 
+L_04  | Calculate Garbage level | greater than 60 and less than 80 cm | LED 4 ON 
+L_05  | Calculate Garbage level | greater than 80 and less than 100 cm | LED 5 ON 
+
 
 
