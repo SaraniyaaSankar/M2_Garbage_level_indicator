@@ -3,13 +3,15 @@
 Dustbin is a container which collects garbage’s or stores items which are recyclable or non-recyclable, decompose and non-decompose. They are usually used in homes, office etc, but in case they are full no one is there to clean it and the garbage are spilled out. The surrounding of a dustbin is conducive and it increases the pollution level. Air pollution due to a garbage’s in dustbin can produce bacteria and virus which can cause spread of harmful diseases for human. Therefore, a smart dustbin is designed.
 ## OBJECTIVE
 The main objective of the project is to design a smart dustbin which will help in keeping our environment clean and also eco-friendly. This smart dustbin management system is built on the microcontroller-based system having ultrasonic sensor on the dustbin. If dustbin is not maintained then it can cause an unhealthy environment and create pollution that affect our health.
+## Defining the System
+![defining the system M2](https://user-images.githubusercontent.com/101622270/163931284-56938ba6-1c4d-4f25-bfe5-0808c92668bc.PNG)
 ## BENIFITS
 - It improves street hygiene and safety.
 - Easy installation
 - Minimal maintenance
 - Compact design
 ## COMPONENTS
-- ATMEGA328
+- ATMEGA328p
 - Ultrasonic sensor
 - LEDs
 - Resistors
