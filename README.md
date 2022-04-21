@@ -10,3 +10,5 @@
 [![Unit testing](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/unit-test.yml)
 - Analysis
 [![Analysis](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/Analysis.yml)
+- Build-Windows
+[![Build CI - Windows](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/Build_Windows.yml)
