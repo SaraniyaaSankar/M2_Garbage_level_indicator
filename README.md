@@ -19,3 +19,5 @@
 ![Codiga Badge](https://api.codiga.io/project/32955/status/svg)
 - cppcheck
 [![cppcheck-action](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/cppcheck.yml)
+- Build
+[![C/C++ CI](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaraniyaaSankar/M2_Garbage_level_indicator/actions/workflows/c-cpp.yml)
