@@ -15,6 +15,10 @@ The main objective of the project is to design a smart dustbin which will help i
 - Ultrasonic sensor
 - LEDs
 - Resistors
+ULTRASONIC SENSOR
+- Operating voltage: +5V
+- Theoretical measuring distance: 2cm to 450cm
+- Practical measuring distance: 2cm to 100cm
 ## 4W's And 1H
 ## Who
 In our day to day activities, it is common to all to have smart dustbin in home, office, restaurants etc.
